@@ -1,6 +1,6 @@
 <p align="center">
-    <a href="https://github.com/RobMxz" style="font-size: 32px; font-family: 'MonaSpace Krypton'; color:#36BCF7FF; text-decoration: none;">
-        RobMxz
+    <a href="https://github.com/RobMxz">
+        <img img width="128px" src="https://i.imgur.com/9VHt6w0.png"/>
     </a>
 </p>
 
