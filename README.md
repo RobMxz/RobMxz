@@ -9,9 +9,9 @@
 </p>
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/roberto-paolo-palacios-chavez-67402124b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://www.edigitalagency.com.au/wp-content/uploads/new-linkedin-logo-white-black-png.png" style="filter: invert(68%) sepia(14%) saturate(5296%) hue-rotate(166deg) brightness(100%) contrast(95%); padding-right:16px;"/></a>
-  <a href="https://www.instagram.com/rob_mxz/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn-icons-png.flaticon.com/512/1400/1400829.png" style="filter: invert(68%) sepia(14%) saturate(5296%) hue-rotate(166deg) brightness(100%) contrast(95%); padding-right:16px;"/></a>
-  <a href="https://discordapp.com/users/393511896868847628" alt="Discord" title="Discord"><img width="32px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" style="filter: invert(68%) sepia(14%) saturate(5296%) hue-rotate(166deg) brightness(100%) contrast(95%); padding-right:16px;"/></a>
+  <a href="https://www.linkedin.com/in/roberto-paolo-palacios-chavez-67402124b/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/YkwMD6p.png"/></a>
+  <a href="https://www.instagram.com/rob_mxz/"><img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/qbKOvY0.png"/></a>
+  <a href="https://discordapp.com/users/393511896868847628" alt="Discord" title="Discord"><img width="32px" src="https://i.imgur.com/QBTIBvG.png"/></a>
 </p>
 <p align="center">
     <img src="https://count.getloli.com/get/@:RobMxz">
