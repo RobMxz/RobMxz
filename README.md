@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://github.com/RobMxz">
-        <img img width="128px" src="https://i.imgur.com/9VHt6w0.png"/>
+        <img img width="128px" src="https://readme-typing-svg.herokuapp.com/?font=MonaSpace+Krypton&size=128&center=true&vCenter=true&width=500&height=128&duration=1&repeat=false&lines=RobMxz"/>
     </a>
 </p>
 
