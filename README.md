@@ -19,7 +19,7 @@
 <details> 
 <summary><h2>💻 Current projects</h2></summary>
 
-<p>📱 WhatsApp SideBar Chat</p>
+<p>⚛ Valorant Fanpage - React </p>
 </details>
 
 <details> 
@@ -103,6 +103,7 @@
 
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#1867](https://github.com/mouredev/roadmap-retos-programacion/pull/1867) in [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
 2. 💪 Opened PR [#585](https://github.com/mouredev/roadmap-retos-programacion/pull/585) in [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
 3. 💪 Opened PR [#263](https://github.com/mouredev/roadmap-retos-programacion/pull/263) in [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
