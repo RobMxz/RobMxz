@@ -104,10 +104,10 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#19](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/19) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
-2. ❌ Closed PR [#18](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/18) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
-3. 💪 Opened PR [#18](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/18) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
-4. 💪 Opened PR [#11](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/11) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
+1. 🎉 Merged PR [#19](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/19) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
+2. 💪 Opened PR [#19](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/19) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
+3. ❌ Closed PR [#18](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/18) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
+4. 💪 Opened PR [#18](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/18) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
 <!--END_SECTION:activity-->
 
 </details>
