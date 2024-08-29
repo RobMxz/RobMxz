@@ -104,9 +104,9 @@
   <!-- https://github.com/jamesgeorge007/github-activity-readme -->
   <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#4](https://github.com/RobMxz/Reto-WTH-CF/pull/4) in [RobMxz/Reto-WTH-CF](https://github.com/RobMxz/Reto-WTH-CF)
-2. 💪 Opened PR [#5022](https://github.com/mouredev/roadmap-retos-programacion/pull/5022) in [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
-3. 💪 Opened PR [#32](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/32) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
+1. 🎉 Merged PR [#4](https://github.com/RobMxz/Reto-WTH-CF/pull/4) in [RobMxz/Reto-WTH-CF](https://github.com/RobMxz/Reto-WTH-CF)
+2. 💪 Opened PR [#4](https://github.com/RobMxz/Reto-WTH-CF/pull/4) in [RobMxz/Reto-WTH-CF](https://github.com/RobMxz/Reto-WTH-CF)
+3. 💪 Opened PR [#5022](https://github.com/mouredev/roadmap-retos-programacion/pull/5022) in [mouredev/roadmap-retos-programacion](https://github.com/mouredev/roadmap-retos-programacion)
 4. 💪 Opened PR [#29](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game/pull/29) in [Dolphin-Tech-2/Human-Machine_Strategy-Game](https://github.com/Dolphin-Tech-2/Human-Machine_Strategy-Game)
 <!--END_SECTION:activity-->
 
