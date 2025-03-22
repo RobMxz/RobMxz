@@ -19,7 +19,7 @@
 <details> 
 <summary><h2>💻 Current projects</h2></summary>
 
-<p>⚛ Valorant Fanpage - React </p>
+<p>📘 ToDoApp - React </p>
 </details>
 
 <details> 
